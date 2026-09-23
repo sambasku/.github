@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../logo.png" alt="SambasKu" width="280" />
+  <img src="../banner.png" alt="SambasKu" width="100%" />
 </p>
 
 <h1 align="center">SambasKu</h1>
