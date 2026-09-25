@@ -22,6 +22,11 @@ Antarmuka aplikasi berbahasa Indonesia.
 
 ## Gabung komunitas
 
-Gabung komunitas Discord [bacot.io](https://discord.gg/2cs7Hn9Uht) untuk berkenalan dengan pengguna lain, meminta bantuan, dan mengikuti perkembangan terbaru:
+Gabung komunitas untuk berkenalan dengan pengguna lain, meminta bantuan, dan mengikuti perkembangan terbaru. Ada server Discord [bacot.io](https://discord.gg/2cs7Hn9Uht) dan grup WhatsApp:
 
 [![Server Discord](https://img.shields.io/badge/Gabung%20Discord-Komunitas-blue?logo=discord&logoColor=white)](https://discord.gg/2cs7Hn9Uht)
+[![Grup WhatsApp](https://img.shields.io/badge/Gabung%20WhatsApp-Komunitas-25D366?logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Kw64lxFEGXfK5gw6T6GEoN?mode=gi_t)
+
+<a href="https://chat.whatsapp.com/Kw64lxFEGXfK5gw6T6GEoN?mode=gi_t">
+  <img src="whatsapp-group-qr.png" alt="Kode QR grup WhatsApp SambasKu" width="160" />
+</a>
