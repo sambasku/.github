@@ -24,7 +24,7 @@ Sekarang fokus kami masih satu: **kamus yang bisa dipercaya**. Situs [sambasku.c
 
 ## Apa yang bisa dipakai hari ini
 
-Buka [sambasku.com](https://sambasku.com) atau aplikasi Android, lalu cari kata dari sisi Melayu Sambas atau dari bahasa Indonesia. Makna, kelas kata, dan contoh kalimat siap dibaca. Kalau ada rekaman suara, Anda bisa mendengar bagaimana kata itu diucapkan - bukan hanya melihat ejaannya.
+Buka [sambasku.com](https://sambasku.com) atau download via Google Play, cari : [Sambasku](https://play.google.com/store/apps/details?id=com.iamutaki.sambasku), lalu cari kata dari sisi Melayu Sambas atau dari bahasa Indonesia. Makna, kelas kata, dan contoh kalimat siap dibaca. Kalau ada rekaman suara, Anda bisa mendengar bagaimana kata itu diucapkan - bukan hanya melihat ejaannya.
 
 Temukan kata yang ingin diingat? Simpan. Temukan kata yang kurang lengkap, atau yang belum masuk sama sekali? Usulkan. Usulan tidak langsung tayang: ada orang yang memeriksa dulu, supaya kamus tetap bisa dipercaya.
 
