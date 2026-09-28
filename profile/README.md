@@ -1,18 +1,10 @@
-<p align="center">
-  <img src="../banner.png" alt="SambasKu" width="100%" />
-</p>
+![SambasKu](../banner.png)
 
-<h1 align="center">SambasKu</h1>
+# SambasKu
 
-<p align="center">
-  Rumah bagi penutur, perantau, dan pecinta bahasa Melayu Sambas.
-</p>
+Rumah bagi penutur, perantau, dan pecinta bahasa Melayu Sambas.
 
-<p align="center">
-  <a href="https://sambasku.com">sambasku.com</a>
-  ·
-  <a href="mailto:mail@sambasku.com">mail@sambasku.com</a>
-</p>
+[sambasku.com](https://sambasku.com) · [mail@sambasku.com](mailto:mail@sambasku.com)
 
 ## Kenapa kami ada
 
@@ -49,17 +41,39 @@ Yang biasanya cocok dengan kami:
 - sekolah dan sanggar yang butuh materi belajar berbasis kamus terverifikasi
 - pelaku usaha lokal yang nanti ingin tampil di direktori ringan, setelah fondasi kamus lebih matang
 
-Yang tidak kami tawarkan: arti kata berbayar, iklan yang mengganggu pencarian, atau mengubah kamus menjadi etalase transaksi.
+### Apa yang mitra dapat sebagai atribusi
 
-Dukungan Anda bisa berarti banyak hal konkret: membantu perekaman pelafalan penutur, melengkapi contoh kalimat, membiayai infrastruktur kamus, atau kelak mendampingi artikel budaya dan materi sekolah. Mitra mendapat tempat yang pantas di laporan dampak atau halaman tentang - bukan logo di hasil pencarian kata.
+Dukungan Anda diakui di tempat yang pantas, tanpa mengganggu cara orang memakai kamus:
 
-Tidak perlu proposal panjang di email pertama. Cukup tulis ke [mail@sambasku.com](mailto:mail@sambasku.com): siapa Anda, kenapa tertarik, dan apa yang ingin didukung. Kami baca, lalu balas untuk melanjutkan percakapan.
+- nama dan logo di halaman Tentang / Mitra
+- menyebutkan dukungan di laporan dampak berkala (misalnya lemma baru, audio, atau konten yang ikut dibiayai)
 
-[![Tulis ke mail@sambasku.com](https://img.shields.io/badge/Tulis%20email-mail%40sambasku.com-EA4335?logo=gmail&logoColor=white)](mailto:mail@sambasku.com?subject=Sponsor%20atau%20kerja%20sama%20SambasKu)
+Jika Anda menjadi sponsor lewat GitHub Sponsors, nama Anda juga tampil di halaman profil Sponsors kami.
+
+Yang tidak kami berikan sebagai atribusi: logo di hasil pencarian kata, di halaman makna, di layar pembuka aplikasi, atau di tempat lain yang membuat kamus terasa seperti papan reklame.
+
+Yang juga tidak kami tawarkan: arti kata berbayar, iklan yang mengganggu pencarian, atau mengubah kamus menjadi etalase transaksi.
+
+Dukungan Anda bisa berarti banyak hal konkret: membantu perekaman pelafalan penutur, melengkapi contoh kalimat, membiayai infrastruktur kamus, atau kelak mendampingi artikel budaya dan materi sekolah. Detail atribusi dan durasinya kami sepakati bersama sebelum kerja sama dimulai.
+
+### Jadi sponsor
+
+Anda bisa mendukung lewat GitHub Sponsors, atau menghubungi kami untuk kerja sama di luar GitHub.
+
+![Sponsor di GitHub](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)
+![Tulis ke mail@sambasku.com](https://img.shields.io/badge/Tulis%20email-mail%40sambasku.com-EA4335?logo=gmail&logoColor=white)
+
+Untuk kerja sama lembaga atau proposal yang lebih panjang, tidak perlu berkas lengkap di email pertama. Cukup tulis ke [mail@sambasku.com](mailto:mail@sambasku.com): siapa Anda, kenapa tertarik, dan apa yang ingin didukung. Kami baca, lalu balas.
+
+### Sponsor saat ini
+
+Belum ada sponsor tercatat. Anda bisa menjadi yang pertama lewat [GitHub Sponsors](https://github.com/sponsors/sambasku).
+
+
 
 ## Mari kenalan
 
 Kalau ingin bertanya, ikut diskusi, atau sekadar menyapa orang yang juga peduli bahasa Sambas, silakan masuk:
 
-[![Server Discord](https://img.shields.io/badge/Gabung%20Discord-Komunitas-blue?logo=discord&logoColor=white)](https://discord.gg/2cs7Hn9Uht)
-[![Grup WhatsApp](https://img.shields.io/badge/Gabung%20WhatsApp-Komunitas-25D366?logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Kw64lxFEGXfK5gw6T6GEoN?mode=gi_t)
+![Server Discord](https://img.shields.io/badge/Gabung%20Discord-Komunitas-blue?logo=discord&logoColor=white)
+![Grup WhatsApp](https://img.shields.io/badge/Gabung%20WhatsApp-Komunitas-25D366?logo=whatsapp&logoColor=white)
