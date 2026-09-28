@@ -5,7 +5,7 @@
 <h1 align="center">SambasKu</h1>
 
 <p align="center">
-  Kamus bahasa Melayu Sambas, dibuat bersama orang yang masih memakainya.
+  Rumah bagi penutur, perantau, dan pecinta bahasa Melayu Sambas.
 </p>
 
 <p align="center">
