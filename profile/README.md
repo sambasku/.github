@@ -6,6 +6,23 @@ Rumah bagi penutur, perantau, dan pecinta bahasa Melayu Sambas.
 
 [sambasku.com](https://sambasku.com) · [mail@sambasku.com](mailto:mail@sambasku.com)
 
+## Organisasi
+
+SambasKu adalah organisasi terbuka di GitHub untuk merawat kamus digital bahasa Melayu Sambas. Domain [sambasku.com](https://sambasku.com) terverifikasi pada organisasi ini.
+
+Kami bukan portal berita daerah, apalagi toko online. Yang kami jaga tetap satu: bahasa yang hidup, lalu lambat laun konteks hidup di sekitarnya. Kode sumber, aset, dan infrastruktur pendukung dipublikasikan di sini supaya pekerjaan bisa diaudit, dikritik, dan dilanjutkan bersama.
+
+## Cara ikut serta
+
+Ada banyak cara ikut menjaga kamus ini, tanpa harus jadi terlibat aktif di Repository:
+
+- **Pakai dan bagikan** - buka [sambasku.com](https://sambasku.com) atau unduh [aplikasi Android](https://play.google.com/store/apps/details?id=com.iamutaki.sambasku), lalu bagikan kartu kata ke keluarga atau teman.
+- **Usulkan atau perbaiki** - kirim kata baru atau perbaikan lewat situs atau aplikasi. Usulan diperiksa dulu, supaya kamus tetap bisa dipercaya.
+- **Gabung komunitas** - tanya, diskusi, atau sekadar menyapa di [Grup WhatsApp](https://chat.whatsapp.com/Kw64lxFEGXfK5gw6T6GEoN?mode=gi_t) atau [Discord](https://discord.gg/e6wUHpgRcY).
+- **Kritik dan saran** - ceritakan apa yang kurang nyaman, membingungkan, atau ingin diperbaiki di situs/aplikasi. Kirim ke [mail@sambasku.com](mailto:mail@sambasku.com), atau sampaikan di komunitas di atas.
+- **Sponsori pekerjaan pelestarian** - lewat [GitHub Sponsors](https://github.com/sponsors/sambasku) atau tulis ke [mail@sambasku.com](mailto:mail@sambasku.com). Detail mitra ada di bagian Sponsor di bawah.
+- **Baca kode atau laporkan masalah** - jelajahi repositori publik di organisasi ini; transparansi adalah bagian dari cara kami merawat kepercayaan.
+
 ## Kenapa kami ada
 
 Bahasa Melayu Sambas masih hidup di rumah, di pasar, dan di percakapan sehari-hari. Tapi di internet, sering sulit dicari, jarang terdengar, dan mudah tertinggal.
@@ -60,8 +77,8 @@ Dukungan Anda bisa berarti banyak hal konkret: membantu perekaman pelafalan penu
 
 Anda bisa mendukung lewat GitHub Sponsors, atau menghubungi kami untuk kerja sama di luar GitHub.
 
-![Sponsor di GitHub](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)
-![Tulis ke mail@sambasku.com](https://img.shields.io/badge/Tulis%20email-mail%40sambasku.com-EA4335?logo=gmail&logoColor=white)
+[![Sponsor di GitHub](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/sambasku)
+[![Tulis ke mail@sambasku.com](https://img.shields.io/badge/Tulis%20email-mail%40sambasku.com-EA4335?logo=gmail&logoColor=white)](mailto:mail@sambasku.com)
 
 Untuk kerja sama lembaga, tidak perlu berkas lengkap di email pertama. Cukup tulis ke [mail@sambasku.com](mailto:mail@sambasku.com): siapa Anda, kenapa tertarik, dan apa yang ingin didukung. Kami baca, lalu balas.
 
@@ -73,5 +90,5 @@ Belum ada sponsor tercatat. Anda bisa menjadi yang pertama lewat [GitHub Sponsor
 
 Kalau ingin bertanya, ikut diskusi, atau sekadar menyapa orang yang juga peduli bahasa Sambas, silakan masuk:
 
-![Server Discord](https://img.shields.io/badge/Gabung%20Discord-Komunitas-blue?logo=discord&logoColor=white)
-![Grup WhatsApp](https://img.shields.io/badge/Gabung%20WhatsApp-Komunitas-25D366?logo=whatsapp&logoColor=white)
+[![Server Discord](https://img.shields.io/badge/Gabung%20Discord-Komunitas-blue?logo=discord&logoColor=white)](https://discord.gg/e6wUHpgRcY)
+[![Grup WhatsApp](https://img.shields.io/badge/Gabung%20WhatsApp-Komunitas-25D366?logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Kw64lxFEGXfK5gw6T6GEoN?mode=gi_t)
