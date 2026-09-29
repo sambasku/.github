@@ -14,7 +14,7 @@ Kami bukan portal berita daerah, apalagi toko online. Yang kami jaga tetap satu:
 
 ## Cara ikut serta
 
-Ada banyak cara ikut menjaga kamus ini, tanpa harus jadi terlibat aktif di Repository:
+Ada banyak cara ikut menjaga kamus ini, tanpa harus jadi terlibat aktif di repository:
 
 - **Pakai dan bagikan** - buka [sambasku.com](https://sambasku.com) atau unduh [aplikasi Android](https://play.google.com/store/apps/details?id=com.iamutaki.sambasku), lalu bagikan kartu kata ke keluarga atau teman.
 - **Usulkan atau perbaiki** - kirim kata baru atau perbaikan lewat situs atau aplikasi. Usulan diperiksa dulu, supaya kamus tetap bisa dipercaya.
@@ -27,25 +27,19 @@ Ada banyak cara ikut menjaga kamus ini, tanpa harus jadi terlibat aktif di Repos
 
 Bahasa Melayu Sambas masih hidup di rumah, di pasar, dan di percakapan sehari-hari. Tapi di internet, sering sulit dicari, jarang terdengar, dan mudah tertinggal.
 
-SambasKu dibuat supaya kata-kata itu punya tempat di dunia digital. Bukan sekadar arsip, melainkan kamus yang bisa dikoreksi, dilengkapi, dan dijaga bersama.
-
-Saat ini fokus kami satu: **kamus yang bisa dipercaya**. Tersedia di [sambasku.com](https://sambasku.com) dan aplikasi Android di Google Play. Antarmukanya berbahasa Indonesia.
+SambasKu dibuat supaya kata-kata itu punya tempat di dunia digital. Bukan sekadar arsip, melainkan kamus yang bisa dikoreksi, dilengkapi, dan dijaga bersama. Saat ini fokus kami satu: **kamus yang bisa dipercaya**. Antarmukanya berbahasa Indonesia.
 
 ## Apa yang bisa dipakai hari ini
 
-Buka [sambasku.com](https://sambasku.com) atau unduh aplikasi [SambasKu di Google Play](https://play.google.com/store/apps/details?id=com.iamutaki.sambasku). Cari kata dari sisi Melayu Sambas atau dari bahasa Indonesia. Makna, jenis kata, dan contoh kalimat siap dibaca. Kalau ada rekaman suara, Anda juga bisa mendengar cara pengucapannya.
+Cari kata dari sisi Melayu Sambas atau dari bahasa Indonesia. Makna, jenis kata, dan contoh kalimat siap dibaca. Kalau ada rekaman suara, Anda juga bisa mendengar cara pengucapannya.
 
-Temukan kata yang ingin diingat? Simpan. Temukan kata yang kurang lengkap, atau yang belum masuk sama sekali? Usulkan. Usulan tidak langsung tayang: ada yang memeriksa dulu, supaya kamus tetap bisa dipercaya.
-
-Anda juga bisa ikut menilai, berkomentar, atau berdiskusi. Yang sudah menyumbang punya profil publik. Ada bookmark, notifikasi, dan kartu yang siap dibagikan ke teman atau keluarga.
+Temukan kata yang ingin diingat? Simpan. Temukan kata yang kurang lengkap, atau yang belum masuk sama sekali? Usulkan lewat situs atau aplikasi. Anda juga bisa ikut menilai, berkomentar, atau berdiskusi. Yang sudah menyumbang punya profil publik. Ada bookmark, notifikasi, dan kartu yang siap dibagikan.
 
 ## Ke mana kami akan melangkah
 
 Suatu hari nanti, SambasKu tidak hanya untuk mencari arti kata. Anda juga bisa menemukan cerita di balik kata itu: adat yang masih dijalankan, tokoh yang dikenang, tempat yang layak dikunjungi, makanan yang sering disebut, acara warga, usaha tetangga, sampai materi untuk anak belajar di sekolah.
 
 Itu arah kami. Tapi urutannya sengaja pelan: **kamus dulu**. Fondasi harus kuat supaya yang berikutnya terasa seperti perluasan rumah yang sama, bukan bangunan baru yang kebetulan memakai nama Sambas.
-
-Kami tidak berniat jadi portal berita daerah, apalagi toko online. Yang kami jaga tetap satu: bahasa yang hidup, lalu lambat laun konteks hidup di sekitarnya.
 
 ## Sponsor dan kerja sama
 
@@ -80,7 +74,7 @@ Anda bisa mendukung lewat GitHub Sponsors, atau menghubungi kami untuk kerja sam
 [![Sponsor di GitHub](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/sambasku)
 [![Tulis ke mail@sambasku.com](https://img.shields.io/badge/Tulis%20email-mail%40sambasku.com-EA4335?logo=gmail&logoColor=white)](mailto:mail@sambasku.com)
 
-Untuk kerja sama lembaga, tidak perlu berkas lengkap di email pertama. Cukup tulis ke [mail@sambasku.com](mailto:mail@sambasku.com): siapa Anda, kenapa tertarik, dan apa yang ingin didukung. Kami baca, lalu balas.
+Untuk kerja sama lembaga, tidak perlu berkas lengkap di email pertama. Cukup tulis siapa Anda, kenapa tertarik, dan apa yang ingin didukung. Kami baca, lalu balas.
 
 ### Sponsor saat ini
 
