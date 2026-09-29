@@ -61,9 +61,10 @@ Bentuk dukungan konkret Anda dapat dialokasikan untuk membiayai perekaman pelafa
 
 ### Menjadi Sponsor
 
-Anda dapat memberikan dukungan langsung melalui GitHub Sponsors atau menghubungi kami untuk bentuk kerja sama lainnya.
+Anda dapat memberikan dukungan langsung melalui GitHub Sponsors, [Saweria](https://saweria.co/sambasku), atau menghubungi kami untuk bentuk kerja sama lainnya.
 
 [![Sponsor di GitHub](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/sambasku)
+[![Dukung di Saweria](https://img.shields.io/badge/Dukung-Saweria-FFA31A)](https://saweria.co/sambasku)
 [![Tulis ke mail@sambasku.com](https://img.shields.io/badge/Tulis%20email-mail%40sambasku.com-EA4335?logo=gmail&logoColor=white)](mailto:mail@sambasku.com)
 
 Untuk kolaborasi tingkat lembaga, Anda tidak perlu melampirkan berkas formal di surel pertama. Cukup kirim pesan singkat ke [mail@sambasku.com](mailto:mail@sambasku.com) yang berisi:
@@ -76,7 +77,7 @@ Kami akan membaca dan membalas pesan Anda dengan senang hati.
 
 ### Sponsor Saat Ini
 
-Belum ada sponsor yang tercatat. Anda bisa menjadi pendukung pertama kami melalui [GitHub Sponsors](https://github.com/sponsors/sambasku).
+Belum ada sponsor yang tercatat. Anda bisa menjadi pendukung pertama kami melalui [GitHub Sponsors](https://github.com/sponsors/sambasku) atau [Saweria](https://saweria.co/sambasku).
 
 ## Mari Berkenalan
 
