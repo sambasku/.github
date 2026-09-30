@@ -6,7 +6,7 @@ Rumah bagi penutur, perantau, dan pecinta bahasa Melayu Sambas.
 
 [sambasku.com](https://sambasku.com) · [mail@sambasku.com](mailto:mail@sambasku.com)
 
-## Mengapa Kami Ada
+## Tentang SambasKu
 
 Bahasa Melayu Sambas masih dipakai di rumah, di pasar, dan dalam percakapan sehari-hari. Di internet, bahasa ini justru sulit dicari, jarang terdengar, dan mudah tertinggal.
 
@@ -14,7 +14,7 @@ SambasKu ada supaya kata-kata Sambas punya tempat di internet. Di dalamnya ada k
 
 Saat ini kami fokus menguatkan kamus di dalam SambasKu supaya bisa dipercaya. Buka di [sambasku.com](https://sambasku.com), atau unduh aplikasinya di [Google Play](https://play.google.com/store/apps/details?id=com.iamutaki.sambasku). Tampilan aplikasinya berbahasa Indonesia.
 
-## Fitur yang Dapat Digunakan Hari Ini
+## Fitur
 
 Di situs atau aplikasi SambasKu, Anda bisa:
 
@@ -24,7 +24,7 @@ Di situs atau aplikasi SambasKu, Anda bisa:
 
 **Berinteraksi dan berbagi:** Anda bisa menilai kata, menulis komentar, atau berdiskusi. Setiap orang yang menyumbang kata punya halaman profil. Anda juga bisa menandai kata, menerima pemberitahuan, dan membagikan kartu kata ke teman atau keluarga.
 
-## Arah Langkah Kami
+## Arah pengembangan
 
 Nanti, SambasKu tidak hanya tempat mencari arti kata. Kami ingin cerita di balik tiap kata juga ada di sini: adat yang masih dijalankan, tokoh yang mengingat sejarah, tempat yang layak dikunjungi, makanan khas, kegiatan warga, usaha lokal, sampai bahan belajar untuk anak sekolah.
 
@@ -43,7 +43,9 @@ Yang cocok bekerja sama dengan kami:
 - Sekolah dan sanggar budaya yang butuh bahan belajar dari kamus yang sudah diperiksa.
 - Usaha lokal yang ingin namanya tercantum, nanti setelah bagian kamusnya sudah kokoh.
 
-### Yang mitra dapatkan
+
+
+### Untuk mitra
 
 Nama Anda kami cantumkan di tempat yang tidak mengganggu orang yang sedang memakai SambasKu:
 
@@ -63,9 +65,9 @@ Bantuan Anda bisa dipakai untuk hal-hal ini: merekam cara pengucapan dari orang 
 
 Anda bisa memberi dukungan lewat GitHub Sponsors, [Saweria](https://saweria.co/sambasku), atau menghubungi kami untuk bentuk kerja sama lainnya. Dana yang masuk diterima oleh Ibnul Mutaki selaku pengurus SambasKu.
 
-[![Sponsor di GitHub](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/sambasku)
-[![Dukung di Saweria](https://img.shields.io/badge/Dukung-Saweria-FFA31A)](https://saweria.co/sambasku)
-[![Tulis ke mail@sambasku.com](https://img.shields.io/badge/Tulis%20email-mail%40sambasku.com-EA4335?logo=gmail&logoColor=white)](mailto:mail@sambasku.com)
+![Sponsor di GitHub](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)
+![Dukung di Saweria](https://img.shields.io/badge/Dukung-Saweria-FFA31A)
+![Tulis ke mail@sambasku.com](https://img.shields.io/badge/Tulis%20email-mail%40sambasku.com-EA4335?logo=gmail&logoColor=white)
 
 Kalau Anda dari sekolah, kantor dinas, yayasan, atau perusahaan, email pertama tidak perlu proposal atau surat resmi. Cukup kirim pesan singkat ke [mail@sambasku.com](mailto:mail@sambasku.com) yang berisi:
 
@@ -81,18 +83,20 @@ Belum ada sponsor yang tercatat. Anda bisa menjadi pendukung pertama kami melalu
 
 ## Kas Publik
 
-Catatan uang SambasKu dibagi dua, supaya tagihan yang belum jatuh tempo tidak tercampur dengan uang yang sudah bergerak. Dana yang masuk diterima oleh Ibnul Mutaki selaku pengurus SambasKu.
+Catatan uang SambasKu dipegang oleh Ibnul Mutaki selaku pengurus. Catatan itu dibagi dua, supaya tagihan yang belum jatuh tempo tidak tercampur dengan uang yang sudah bergerak.
 
-- [cashflow.csv](../cashflow.csv) mencatat uang yang sudah masuk atau keluar. Debit = uang masuk, kredit = uang keluar, saldo = sisa kas. Belum ada transaksi.
-- [tanggungan.csv](../tanggungan.csv) mencatat biaya yang pasti akan dibayar, meski belum jatuh tempo. Kolom `periode` berisi `tahunan`, `bulanan`, atau `sekali`. Saat tagihan lunas, barisnya pindah ke cashflow.
+- [cashflow.csv](../cashflow.csv) untuk uang yang sudah bergerak. Debit: uang masuk. Kredit: uang keluar. Saldo: sisa kas.
+- [payable.csv](../payable.csv) untuk tagihan yang pasti dibayar, meski belum jatuh tempo. Periode: `tahunan`, `bulanan`, atau `sekali`. 
 
-Tanggungan saat ini:
+Payable saat ini:
 
 - Domain [sambasku.com](https://sambasku.com), perpanjangan tahunan: **10,46 USD**, jatuh tempo 24 Agustus 2027 (domain aktif sampai 23 September 2027). [Tangkapan harga](../images/domain_sambasku_com_renewal.png)
 
-## Mari Berkenalan
+
+
+## Komunitas
 
 Punya pertanyaan, ingin berdiskusi, atau sekadar menyapa sesama pecinta bahasa Sambas? Mari bergabung dan terhubung bersama kami!
 
-[![Server Discord](https://img.shields.io/badge/Gabung%20Discord-Komunitas-blue?logo=discord&logoColor=white)](https://discord.gg/e6wUHpgRcY)
-[![Grup WhatsApp](https://img.shields.io/badge/Gabung%20WhatsApp-Komunitas-25D366?logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Kw64lxFEGXfK5gw6T6GEoN?mode=gi_t)
+![Server Discord](https://img.shields.io/badge/Gabung%20Discord-Komunitas-blue?logo=discord&logoColor=white)
+![Grup WhatsApp](https://img.shields.io/badge/Gabung%20WhatsApp-Komunitas-25D366?logo=whatsapp&logoColor=white)
