@@ -8,7 +8,7 @@ Rumah bagi penutur, perantau, dan pecinta bahasa Melayu Sambas.
 
 ## Tentang SambasKu
 
-Bahasa Melayu Sambas masih dipakai di rumah, di pasar, dan dalam percakapan sehari-hari. Di internet, bahasa ini justru sulit dicari, jarang terdengar, dan mudah tertinggal.
+Bahasa Melayu Sambas masih dituturkan di rumah dan di pasar. Di internet, kata-katanya sukar ditemukan, dan suaranya jarang terdengar.
 
 SambasKu ada supaya kata-kata Sambas punya tempat di internet. Di dalamnya ada kamus yang bisa diperbaiki, dilengkapi, dan dijaga bersama.
 
