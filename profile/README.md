@@ -59,24 +59,27 @@ Pencantuman nama adalah bentuk terima kasih, bukan slot yang dijual. Mitra tidak
 
 **Lisensi konten.** Konten kamus yang disusun komunitas SambasKu, seperti kata, contoh kalimat, dan rekaman suara, dirilis dengan lisensi [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id). Artinya, siapa saja boleh memakai dan mengolahnya selama mencantumkan sumber dan membagikan hasilnya dengan lisensi yang sama. Konten yang disumbangkan mitra ke kamus juga mengikuti lisensi ini. Mitra tidak mendapat hak eksklusif atau kepemilikan atas konten.
 
-**Yang didapat mitra.** Hanya pencantuman nama sebagai pendukung. Dukungan tidak memberi pengaruh apa pun atas isi kamus dan konten SambasKu.
+**Yang didapat mitra.** Hanya pencantuman nama sebagai pendukung. Dukungan tidak memberi pengaruh apa pun atas isi kamus dan konten SambasKu. Untuk mitra di bidang kesehatan, yang dicantumkan hanya nama dan logo, tanpa klaim khasiat, testimoni, atau promosi layanan.
 
 **Seleksi.** Nama dan logo tidak otomatis dipasang. Setiap dukungan kami tinjau dulu, dan nama serta logo hanya dicantumkan kalau memenuhi semua kriteria berikut:
 
 - Tidak terlibat kegiatan yang melanggar hukum Indonesia.
 - Tidak merugikan pengguna SambasKu, baik langsung maupun tidak langsung.
 - Sejalan dengan nilai SambasKu: pendidikan, bahasa, dan budaya.
-- Khusus usaha dan lembaga: bersedia menunjukkan bukti legalitas, seperti NIB atau akta pendirian, kalau kami minta.
+- Khusus usaha dan lembaga: bersedia menunjukkan bukti legalitas, seperti NIB, akta pendirian, atau izin operasional (untuk layanan kesehatan), kalau kami minta.
 
 Kami tidak mencantumkan dukungan dari pihak yang terkait dengan:
 
 - perjudian dalam bentuk apa pun;
 - pinjaman online yang tidak berizin OJK;
 - pornografi atau konten dewasa;
-- obat, suplemen, atau produk kesehatan tanpa izin edar BPOM;
+- obat, suplemen, kosmetik, atau produk kesehatan tanpa izin edar BPOM;
+- layanan kesehatan tanpa izin yang berlaku, seperti klinik, apotek, praktik tenaga kesehatan, atau pengobat tradisional yang tidak terdaftar (pemiliknya hanya bisa mendukung sebagai sponsor perorangan, lihat ketentuan di bawah);
 - penyalahgunaan data pribadi.
 
 **Nama dan logo SambasKu.** Kemitraan bukan bentuk dukungan (endorsement) SambasKu terhadap produk atau layanan mitra. Mitra tidak boleh memakai nama atau logo SambasKu di materi mereka tanpa izin tertulis dari kami.
+
+**Usaha kesehatan yang belum terdaftar.** Usaha pengobatan, termasuk pengobatan tradisional, yang belum punya izin atau surat terdaftar dari dinas kesehatan tidak dicantumkan sebagai mitra, walaupun layanannya sudah lama dipercaya warga. Pemiliknya tetap boleh mendukung sebagai sponsor perorangan. Yang dicantumkan hanya nama pribadinya, tanpa nama usaha, logo, atau keterangan layanan.
 
 **Sponsor perorangan.** Nama sponsor perorangan hanya dicantumkan setelah yang bersangkutan setuju.
 
