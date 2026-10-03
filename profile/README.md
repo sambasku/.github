@@ -53,6 +53,21 @@ Pencantuman nama untuk semua mitra, termasuk usaha lokal, gratis dan bukan slot 
 
 Kerja sama bersifat dukungan sukarela untuk membantu operasional, bukan kontrak bisnis. Konten di SambasKu dirilis dengan lisensi CC BY-SA 4.0, jadi mitra tidak mendapatkan kepemilikan atas konten.
 
+Nama dan logo sponsor serta mitra tidak langsung kami pasang. Setiap dukungan kami tinjau dulu, dan pencantuman nama serta logo hanya untuk yang lolos seleksi kami. Kriterianya:
+
+- Tidak terlibat aktivitas ilegal dan tidak melanggar hukum yang berlaku di Indonesia.
+- Tidak merugikan pengguna SambasKu, langsung maupun tidak langsung.
+- Sejalan dengan nilai SambasKu: pendidikan, bahasa, dan budaya.
+- Untuk usaha atau lembaga, kami boleh meminta bukti legalitas singkat seperti NIB atau akta.
+
+Kami tidak menampilkan dukungan dari usaha ilegal, judi daring, pinjaman online ilegal, konten dewasa, produk kesehatan abal-abal, atau pihak yang menyalahgunakan data pengguna.
+
+Nama sponsor perorangan kami cantumkan dengan persetujuannya. Dukungan tidak memberi pengaruh apa pun atas isi kamus dan konten SambasKu. Kemitraan juga bukan endorsement: sponsor dan mitra tidak boleh memakai nama atau logo SambasKu di materi mereka tanpa izin tertulis dari kami.
+
+Tautan sponsor dan mitra kami periksa dan tidak boleh mengarah ke malware atau phishing.
+
+Kami berhak menolak atau mencabut pencantuman nama dan logo kapan saja, termasuk kalau ada perubahan yang melanggar kriteria di atas.
+
 Nama Anda kami cantumkan di tempat yang tidak mengganggu orang yang sedang memakai SambasKu:
 
 - Nama dan logo di halaman Tentang dan Mitra.
