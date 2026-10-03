@@ -8,120 +8,141 @@ Rumah bagi penutur, perantau, dan pecinta bahasa Melayu Sambas.
 
 ## Tentang SambasKu
 
-Bahasa Melayu Sambas masih dituturkan di rumah dan di pasar. Di internet, kata-katanya sukar ditemukan, dan suaranya jarang terdengar.
+Bahasa Melayu Sambas masih dituturkan sehari-hari, di rumah maupun di pasar. Namun di internet, kata-katanya sulit ditemukan dan cara pengucapannya jarang bisa didengar.
 
-SambasKu ada supaya kata-kata Sambas punya tempat di internet. Di dalamnya ada kamus yang bisa diperbaiki, dilengkapi, dan dijaga bersama.
+SambasKu hadir supaya kata-kata Sambas punya tempat di internet, dalam bentuk kamus yang bisa diperbaiki, dilengkapi, dan dijaga bersama.
 
-SambasKu adalah proyek komunitas yang dijalankan sebagai hobi, bukan yayasan, lembaga, atau organisasi resmi. Tidak ada gaji tetap, dan tidak ada layanan berbayar. Kontributor seperti perekam suara bisa dapat honorarium kecil, dan pengeluarannya dicatat terbuka di Kas Publik. Niatnya murni merawat bahasa Melayu Sambas, bukan mencari untung.
+SambasKu adalah proyek komunitas yang dijalankan secara sukarela. SambasKu bukan badan hukum, bukan yayasan, dan bukan lembaga resmi. Pengelolanya relawan yang tidak digaji, dan tidak ada layanan berbayar. Kontributor tertentu, misalnya perekam suara, bisa menerima honorarium kecil sebagai pengganti waktu dan tenaga. Semua pengeluaran dicatat terbuka di [Kas Publik](#kas-publik). Tujuan SambasKu adalah merawat bahasa Melayu Sambas, bukan mencari keuntungan.
 
-Saat ini kami fokus menguatkan kamus di dalam SambasKu supaya bisa dipercaya. Buka di [sambasku.com](https://sambasku.com), atau unduh aplikasinya di [Google Play](https://play.google.com/store/apps/details?id=com.iamutaki.sambasku). Tampilan aplikasinya berbahasa Indonesia.
+Saat ini kami fokus memperkuat kamus supaya isinya bisa dipercaya. Kamu bisa membukanya di [sambasku.com](https://sambasku.com) atau mengunduh aplikasinya di [Google Play](https://play.google.com/store/apps/details?id=com.iamutaki.sambasku). Tampilan aplikasinya berbahasa Indonesia.
 
 ## Fitur
 
-Di situs atau aplikasi SambasKu, Anda bisa:
+Di situs dan aplikasi SambasKu, kamu bisa:
 
-**Cari kata dua arah:** Cari dari Melayu Sambas ke bahasa Indonesia, atau sebaliknya. Arti, jenis kata, dan contoh kalimat bisa langsung dibaca. Kalau ada rekamannya, Anda juga bisa mendengar cara pengucapannya.
+**Mencari kata dua arah:** dari bahasa Melayu Sambas ke bahasa Indonesia, atau sebaliknya. Arti, jenis kata, dan contoh kalimat langsung terlihat. Kalau rekamannya tersedia, kamu juga bisa mendengar cara pengucapannya.
 
-**Simpan dan usulkan kata:** Simpan kata yang Anda suka untuk dibaca nanti. Kalau ada kata yang kurang lengkap atau belum ada, Anda bisa mengusulkannya. Setiap usulan diperiksa dulu sebelum ditampilkan, supaya kamusnya tetap teliti.
+**Menyimpan dan mengusulkan kata:** Simpan kata yang ingin kamu baca lagi nanti. Kalau ada kata yang belum lengkap atau belum ada, kamu bisa mengusulkannya. Setiap usulan diperiksa lebih dulu sebelum ditampilkan, supaya isi kamus tetap akurat.
 
-**Berinteraksi dan berbagi:** Anda bisa menilai kata, menulis komentar, atau berdiskusi. Setiap orang yang menyumbang kata punya halaman profil. Anda juga bisa menandai kata, menerima pemberitahuan, dan membagikan kartu kata ke teman atau keluarga.
+**Berinteraksi dan berbagi:** Kamu bisa memberi penilaian pada kata, menulis komentar, dan berdiskusi. Setiap kontributor punya halaman profil. Kamu juga bisa menyebut (mention) pengguna lain di komentar, menerima notifikasi, dan membagikan kartu kata ke teman atau keluarga.
 
-## Arah pengembangan
+## Arah Pengembangan
 
-Nanti, SambasKu tidak hanya tempat mencari arti kata. Kami ingin cerita di balik tiap kata juga ada di sini: adat yang masih dijalankan, tokoh yang mengingat sejarah, tempat yang layak dikunjungi, makanan khas, kegiatan warga, usaha lokal, sampai bahan belajar untuk anak sekolah.
+Ke depan, SambasKu tidak hanya menjadi tempat mencari arti kata. Kami ingin cerita di balik kata-kata itu juga tercatat di sini: adat yang masih dijalankan, tokoh yang mengingat sejarah, tempat yang layak dikunjungi, makanan khas, kegiatan warga, profil usaha lokal, hingga bahan belajar untuk anak sekolah.
 
-Kami jalan pelan-pelan. Bagian kamusnya kami kuatkan dulu, seperti fondasi rumah, sebelum menambah bagian lain. Bagian baru harus benar-benar tentang SambasKu.
+Kami membangunnya bertahap. Kamus diperkuat lebih dulu sebagai fondasi, baru bagian lain ditambahkan. Setiap bagian baru harus berkaitan langsung dengan bahasa dan budaya Sambas.
 
-SambasKu bukan situs berita daerah dan bukan toko online. Yang kami jaga tetap satu: bahasa daerah ini, beserta kehidupan orang-orang di sekitarnya.
+SambasKu bukan situs berita daerah dan bukan toko online. Profil usaha lokal hanya berisi informasi, bukan iklan dan bukan tempat transaksi. Fokus kami tetap satu: bahasa Melayu Sambas, beserta kehidupan orang-orang yang menuturkannya.
 
 ## Sponsor dan Kerja Sama
 
-Mencari dan membaca kamus di dalam SambasKu tidak dipungut biaya. Siapa saja boleh ikut merawat bahasa ini: menambah kata, merekam cara pengucapannya, menulis contoh kalimat, atau menyusun tulisan tentang budaya yang bisa dibaca siapa saja tanpa bayar.
+Mencari dan membaca kamus SambasKu gratis. Siapa saja boleh ikut merawat bahasa ini: menambah kata, merekam cara pengucapan, menulis contoh kalimat, atau menyusun tulisan budaya yang bisa dibaca semua orang secara gratis.
 
-Dukungan yang masuk hanya dipakai untuk biaya operasional, seperti domain dan server, dan catatannya terbuka di bagian Kas Publik. SambasKu tidak menjual data pengguna, tidak memasang iklan, dan tidak akan dikomersialkan.
+Dukungan dana hanya dipakai untuk kebutuhan SambasKu, yaitu biaya operasional (domain dan server), honorarium kecil untuk kontributor, dan pembuatan konten. Semua pemakaiannya dicatat di [Kas Publik](#kas-publik). SambasKu berkomitmen:
 
-Yang cocok bekerja sama dengan kami:
+- **tidak menjual data pengguna**,
+- **tidak memasang iklan**, dan
+- **tidak dikomersialkan**: tidak ada fitur berbayar, dan konten tidak dijual.
 
-- Yayasan, lembaga bahasa, atau perusahaan yang peduli pada baca-tulis dan budaya setempat.
-- Kantor pemerintah daerah yang ingin menaruh kosakata, informasi wisata, dan bahan ajar di SambasKu.
+Selain dana, dukungan juga bisa berupa kerja sama konten. Pihak yang biasanya cocok:
+
+- Yayasan, lembaga bahasa, atau perusahaan yang peduli pada literasi dan budaya setempat.
+- Pemerintah daerah yang ingin berbagi kosakata, informasi wisata, atau bahan ajar lewat SambasKu.
 - Sekolah dan sanggar budaya yang butuh bahan belajar dari kamus yang sudah diperiksa.
-- Usaha lokal yang ingin namanya tercantum, nanti setelah bagian kamusnya sudah kokoh.
+- Usaha lokal yang ingin ikut mendukung pelestarian bahasa Sambas.
 
-Pencantuman nama untuk semua mitra, termasuk usaha lokal, gratis dan bukan slot berbayar.
+Pencantuman nama adalah bentuk terima kasih, bukan slot yang dijual. Mitra tidak perlu membayar untuk dicantumkan, termasuk usaha lokal.
 
-### Untuk mitra
+### Ketentuan untuk Sponsor dan Mitra
 
-Kerja sama bersifat dukungan sukarela untuk membantu operasional, bukan kontrak bisnis. Konten di SambasKu dirilis dengan lisensi CC BY-SA 4.0, jadi mitra tidak mendapatkan kepemilikan atas konten.
+**Sifat kerja sama.** Dukungan bersifat sukarela. Kerja sama ini bukan jual-beli jasa, bukan pemasangan iklan, dan tidak memberi imbalan komersial. Kalau dibutuhkan, rincian kerja sama (misalnya bentuk dan lama waktunya) dituangkan dalam kesepakatan tertulis terpisah lewat email atau surat.
 
-Nama dan logo sponsor serta mitra tidak langsung kami pasang. Setiap dukungan kami tinjau dulu, dan pencantuman nama serta logo hanya untuk yang lolos seleksi kami. Kriterianya:
+**Lisensi konten.** Konten kamus yang disusun komunitas SambasKu, seperti kata, contoh kalimat, dan rekaman suara, dirilis dengan lisensi [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id). Artinya, siapa saja boleh memakai dan mengolahnya selama mencantumkan sumber dan membagikan hasilnya dengan lisensi yang sama. Konten yang disumbangkan mitra ke kamus juga mengikuti lisensi ini. Mitra tidak mendapat hak eksklusif atau kepemilikan atas konten.
 
-- Tidak terlibat aktivitas ilegal dan tidak melanggar hukum yang berlaku di Indonesia.
-- Tidak merugikan pengguna SambasKu, langsung maupun tidak langsung.
+**Yang didapat mitra.** Hanya pencantuman nama sebagai pendukung. Dukungan tidak memberi pengaruh apa pun atas isi kamus dan konten SambasKu.
+
+**Seleksi.** Nama dan logo tidak otomatis dipasang. Setiap dukungan kami tinjau dulu, dan nama serta logo hanya dicantumkan kalau memenuhi semua kriteria berikut:
+
+- Tidak terlibat kegiatan yang melanggar hukum Indonesia.
+- Tidak merugikan pengguna SambasKu, baik langsung maupun tidak langsung.
 - Sejalan dengan nilai SambasKu: pendidikan, bahasa, dan budaya.
-- Untuk usaha atau lembaga, kami boleh meminta bukti legalitas singkat seperti NIB atau akta.
+- Khusus usaha dan lembaga: bersedia menunjukkan bukti legalitas, seperti NIB atau akta pendirian, kalau kami minta.
 
-Kami tidak menampilkan dukungan dari usaha ilegal, judi daring, pinjaman online ilegal, konten dewasa, produk kesehatan abal-abal, atau pihak yang menyalahgunakan data pengguna.
+Kami tidak mencantumkan dukungan dari pihak yang terkait dengan:
 
-Nama sponsor perorangan kami cantumkan dengan persetujuannya. Dukungan tidak memberi pengaruh apa pun atas isi kamus dan konten SambasKu. Kemitraan juga bukan endorsement: sponsor dan mitra tidak boleh memakai nama atau logo SambasKu di materi mereka tanpa izin tertulis dari kami.
+- perjudian dalam bentuk apa pun;
+- pinjaman online yang tidak berizin OJK;
+- pornografi atau konten dewasa;
+- obat, suplemen, atau produk kesehatan tanpa izin edar BPOM;
+- penyalahgunaan data pribadi.
 
-Tautan sponsor dan mitra kami periksa dan tidak boleh mengarah ke malware atau phishing.
+**Nama dan logo SambasKu.** Kemitraan bukan bentuk dukungan (endorsement) SambasKu terhadap produk atau layanan mitra. Mitra tidak boleh memakai nama atau logo SambasKu di materi mereka tanpa izin tertulis dari kami.
 
-Kami berhak menolak atau mencabut pencantuman nama dan logo kapan saja, termasuk kalau ada perubahan yang melanggar kriteria di atas.
+**Sponsor perorangan.** Nama sponsor perorangan hanya dicantumkan setelah yang bersangkutan setuju.
 
-Nama Anda kami cantumkan di tempat yang tidak mengganggu orang yang sedang memakai SambasKu:
+**Tautan.** Tautan sponsor dan mitra kami periksa sebelum dipasang. Tautan yang mengarah ke malware, phishing, atau konten yang melanggar kriteria di atas tidak akan dipasang, atau dicabut kalau sudah terpasang.
 
-- Nama dan logo di halaman Tentang dan Mitra.
-- Disebut dalam laporan berkala, misalnya berapa kata baru, rekaman suara, atau tulisan budaya yang berhasil didanai.
-- Kalau mendukung lewat [GitHub Sponsors](https://github.com/sponsors/sambasku), nama Anda tampil di halaman Sponsors kami.
+**Pencabutan.** Kami berhak menolak atau mencabut pencantuman nama dan logo kapan saja, termasuk kalau sponsor atau mitra tidak lagi memenuhi kriteria di atas.
 
-**Prinsip Utama Kami:**
+### Tempat Nama dan Logo Ditampilkan
 
-**Tanpa iklan:** Logo mitra tidak muncul saat orang mencari kata, saat membaca arti kata, atau saat aplikasi baru dibuka. Logo itu hanya di halaman Tentang dan Mitra. SambasKu tidak memasang iklan, jadi tidak akan terasa seperti papan iklan.
+Nama dan logo sponsor dan mitra yang lolos seleksi hanya ditampilkan di:
 
-**Bukan tempat jualan:** Membaca arti kata tidak dipungut biaya, dan arti kata tidak dijual. SambasKu tidak memasang iklan sama sekali; nama mitra hanya dicantumkan sebagai pendukung, bukan sebagai iklan. SambasKu tidak menjadi toko dan tidak dipakai untuk menjual barang atau jasa.
+- halaman Tentang dan halaman Mitra di SambasKu;
+- laporan berkala, misalnya jumlah kata baru, rekaman suara, atau tulisan budaya yang berhasil didanai.
 
-Bantuan Anda bisa dipakai untuk hal-hal ini: merekam cara pengucapan dari orang yang sehari-hari berbahasa Sambas, menambah contoh kalimat, membiayai situs dan aplikasi supaya tetap bisa dibuka, atau menyusun bahan belajar untuk sekolah dan tulisan tentang budaya. Rincian kerja sama, termasuk lama waktunya, disepakati di pesan atau surat terpisah, bukan di halaman ini.
+**Tanpa iklan:** Nama dan logo mitra tidak muncul saat orang mencari kata, membaca arti kata, atau membuka aplikasi. Jadi SambasKu tidak akan terasa seperti papan iklan.
+
+**Bukan tempat jualan:** SambasKu tidak menjual arti kata, barang, atau jasa, dan tidak menjadi tempat transaksi. Nama mitra dicantumkan sebagai pendukung, bukan sebagai iklan.
+
+Bantuanmu bisa dipakai untuk merekam cara pengucapan dari penutur asli bahasa Sambas, menambah contoh kalimat, membiayai situs dan aplikasi supaya tetap bisa diakses, atau menyusun bahan belajar untuk sekolah dan tulisan tentang budaya.
 
 ### Menjadi Sponsor
 
-Anda bisa memberi dukungan lewat GitHub Sponsors, [Saweria](https://saweria.co/sambasku), atau menghubungi kami untuk bentuk kerja sama lainnya. Dana yang masuk diterima oleh Ibnul Mutaki selaku relawan SambasKu.
+Kamu bisa mendukung lewat [GitHub Sponsors](https://github.com/sponsors/sambasku) atau [Saweria](https://saweria.co/sambasku), atau menghubungi kami untuk bentuk kerja sama dalam bentuk lainnya.
+
+Dana diterima atas nama pribadi oleh Ibnul Mutaki selaku pengelola/relawan SambasKu, lalu dicatat di [Kas Publik](#kas-publik). Dukungan ini adalah pemberian sukarela untuk proyek, bukan donasi amal atau sumbangan sosial, dan tidak memberi imbalan barang atau jasa.
+
+Kalau kamu mendukung lewat GitHub Sponsors, namamu bisa tampil di halaman GitHub Sponsors kami, sesuai pengaturan privasi yang kamu pilih di GitHub.
 
 ![Sponsor di GitHub](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)
 ![Dukung di Saweria](https://img.shields.io/badge/Dukung-Saweria-FFA31A)
 ![Tulis ke mail@sambasku.com](https://img.shields.io/badge/Tulis%20email-mail%40sambasku.com-EA4335?logo=gmail&logoColor=white)
 
-Kalau Anda dari sekolah, kantor dinas, yayasan, atau perusahaan, email pertama tidak perlu proposal atau surat resmi. Cukup kirim pesan singkat ke [mail@sambasku.com](mailto:mail@sambasku.com) yang berisi:
+Ingin bekerja sama atas nama sekolah, kantor dinas, yayasan, atau perusahaan? Untuk perkenalan awal, kamu tidak perlu menyiapkan proposal atau surat resmi. Cukup kirim email singkat ke [mail@sambasku.com](mailto:mail@sambasku.com) yang berisi:
 
-- Siapa Anda, dan dari mana
-- Mengapa Anda ingin mendukung SambasKu
-- Bantuan apa yang ingin Anda berikan, misalnya dana, tenaga, atau materi belajar
+- nama kamu, nama instansi, dan asal daerahnya;
+- alasan instansimu ingin mendukung SambasKu;
+- bentuk dukungan yang ingin diberikan, misalnya dana, tenaga, atau materi belajar.
 
-Kami akan membaca dan membalas pesan Anda dengan senang hati.
+Kami akan membaca dan membalas emailmu. Kalau kerja samanya berlanjut, dokumen resmi bisa disiapkan belakangan sesuai kebutuhan kedua belah pihak.
 
 ### Sponsor Saat Ini
 
-- **Galang Septiadi** - Reimburse pembelian domain sambasku.com, dan reimburse biaya registrasi akun Google Developer (Oktober 2026).
+- **Galang Septiadi** - Pembelian domain sambasku.com (tahun 2026)
 
-Anda juga bisa menjadi pendukung berikutnya melalui [GitHub Sponsors](https://github.com/sponsors/sambasku) atau [Saweria](https://saweria.co/sambasku).
+### Mitra Saat Ini
+
+- Belum ada.
+
+Kamu juga bisa menjadi pendukung berikutnya lewat [GitHub Sponsors](https://github.com/sponsors/sambasku) atau [Saweria](https://saweria.co/sambasku).
 
 ## Kas Publik
 
-Catatan uang SambasKu dipegang oleh Ibnul Mutaki selaku relawan. Kas ini dikelola secara pribadi sebagai bagian dari proyek komunitas, dan seluruh catatannya terbuka untuk diperiksa siapa saja. Kalau proyek ini berhenti, sisa kas dipakai untuk memperpanjang domain dan mengarsipkan konten sebelum kas ditutup. Catatan itu dibagi dua, supaya tagihan yang belum jatuh tempo tidak tercampur dengan uang yang sudah bergerak.
+Karena SambasKu bukan badan hukum, kas SambasKu dipegang dan dikelola secara pribadi oleh Ibnul Mutaki selaku pengelola relawan. Seluruh catatannya terbuka dan bisa diperiksa siapa saja. Kalau proyek ini berhenti, sisa kas dipakai lebih dulu untuk memperpanjang domain dan mengarsipkan konten, lalu kas ditutup.
 
-- [cashflow.csv](../cashflow.csv) untuk uang yang sudah bergerak. Debit: uang masuk. Kredit: uang keluar. Saldo: sisa kas.
-- [payable.csv](../payable.csv) untuk tagihan yang pasti dibayar, meski belum jatuh tempo. Periode: `tahunan`, `bulanan`, atau `sekali`. 
+Catatan kas dibagi dua, supaya tagihan yang belum jatuh tempo tidak tercampur dengan uang yang sudah masuk atau keluar:
 
-Payable saat ini:
+- [cashflow.csv](../cashflow.csv) untuk uang yang sudah masuk atau keluar. Debit berarti uang masuk, kredit berarti uang keluar, dan saldo adalah sisa kas.
+- [payable.csv](../payable.csv) untuk tagihan yang pasti dibayar walau belum jatuh tempo. Periode: `tahunan`, `bulanan`, atau `sekali`.
+
+Tagihan saat ini:
 
 - Domain [sambasku.com](https://sambasku.com), perpanjangan tahunan: **10,46 USD**, jatuh tempo 24 Agustus 2027 (domain aktif sampai 23 September 2027). [Tangkapan harga](../images/domain_sambasku_com_renewal.png)
 
-Tagihan akun Google Developer (25 USD) sudah terbayar dan direimburse sponsor, lihat [cashflow.csv](../cashflow.csv).
-
-
-
 ## Komunitas
 
-Punya pertanyaan, ingin berdiskusi, atau sekadar menyapa sesama pecinta bahasa Sambas? Mari bergabung dan terhubung bersama kami!
+Punya pertanyaan, ingin berdiskusi, atau sekadar menyapa sesama pecinta bahasa Sambas? Yuk, gabung bersama kami!
 
 ![Server Discord](https://img.shields.io/badge/Gabung%20Discord-Komunitas-blue?logo=discord&logoColor=white)
 ![Grup WhatsApp](https://img.shields.io/badge/Gabung%20WhatsApp-Komunitas-25D366?logo=whatsapp&logoColor=white)
