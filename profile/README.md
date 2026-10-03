@@ -12,6 +12,8 @@ Bahasa Melayu Sambas masih dituturkan di rumah dan di pasar. Di internet, kata-k
 
 SambasKu ada supaya kata-kata Sambas punya tempat di internet. Di dalamnya ada kamus yang bisa diperbaiki, dilengkapi, dan dijaga bersama.
 
+SambasKu adalah proyek komunitas yang dijalankan sebagai hobi, bukan yayasan, lembaga, atau organisasi resmi. Tidak ada gaji tetap, dan tidak ada layanan berbayar. Kontributor seperti perekam suara bisa dapat honorarium kecil, dan pengeluarannya dicatat terbuka di Kas Publik. Niatnya murni merawat bahasa Melayu Sambas, bukan mencari untung.
+
 Saat ini kami fokus menguatkan kamus di dalam SambasKu supaya bisa dipercaya. Buka di [sambasku.com](https://sambasku.com), atau unduh aplikasinya di [Google Play](https://play.google.com/store/apps/details?id=com.iamutaki.sambasku). Tampilan aplikasinya berbahasa Indonesia.
 
 ## Fitur
@@ -36,6 +38,8 @@ SambasKu bukan situs berita daerah dan bukan toko online. Yang kami jaga tetap s
 
 Mencari dan membaca kamus di dalam SambasKu tidak dipungut biaya. Siapa saja boleh ikut merawat bahasa ini: menambah kata, merekam cara pengucapannya, menulis contoh kalimat, atau menyusun tulisan tentang budaya yang bisa dibaca siapa saja tanpa bayar.
 
+Dukungan yang masuk hanya dipakai untuk biaya operasional, seperti domain dan server, dan catatannya terbuka di bagian Kas Publik. SambasKu tidak menjual data pengguna, tidak memasang iklan, dan tidak akan dikomersialkan.
+
 Yang cocok bekerja sama dengan kami:
 
 - Yayasan, lembaga bahasa, atau perusahaan yang peduli pada baca-tulis dan budaya setempat.
@@ -43,9 +47,11 @@ Yang cocok bekerja sama dengan kami:
 - Sekolah dan sanggar budaya yang butuh bahan belajar dari kamus yang sudah diperiksa.
 - Usaha lokal yang ingin namanya tercantum, nanti setelah bagian kamusnya sudah kokoh.
 
-
+Pencantuman nama untuk semua mitra, termasuk usaha lokal, gratis dan bukan slot berbayar.
 
 ### Untuk mitra
+
+Kerja sama bersifat dukungan sukarela untuk membantu operasional, bukan kontrak bisnis. Konten di SambasKu dirilis dengan lisensi CC BY-SA 4.0, jadi mitra tidak mendapatkan kepemilikan atas konten.
 
 Nama Anda kami cantumkan di tempat yang tidak mengganggu orang yang sedang memakai SambasKu:
 
@@ -55,15 +61,15 @@ Nama Anda kami cantumkan di tempat yang tidak mengganggu orang yang sedang memak
 
 **Prinsip Utama Kami:**
 
-**Tanpa iklan yang mengganggu:** Logo mitra tidak muncul saat orang mencari kata, saat membaca arti kata, atau saat aplikasi baru dibuka. Logo itu hanya di halaman Tentang dan Mitra. SambasKu tidak boleh terasa seperti papan iklan.
+**Tanpa iklan:** Logo mitra tidak muncul saat orang mencari kata, saat membaca arti kata, atau saat aplikasi baru dibuka. Logo itu hanya di halaman Tentang dan Mitra. SambasKu tidak memasang iklan, jadi tidak akan terasa seperti papan iklan.
 
-**Bukan tempat jualan:** Membaca arti kata tidak dipungut biaya, dan arti kata tidak dijual. Iklan tidak diletakkan di tengah bacaan. Nama mitra, termasuk usaha lokal nanti, hanya dicantumkan sebagai pendukung. SambasKu tidak menjadi toko dan tidak dipakai untuk menjual barang atau jasa.
+**Bukan tempat jualan:** Membaca arti kata tidak dipungut biaya, dan arti kata tidak dijual. SambasKu tidak memasang iklan sama sekali; nama mitra hanya dicantumkan sebagai pendukung, bukan sebagai iklan. SambasKu tidak menjadi toko dan tidak dipakai untuk menjual barang atau jasa.
 
 Bantuan Anda bisa dipakai untuk hal-hal ini: merekam cara pengucapan dari orang yang sehari-hari berbahasa Sambas, menambah contoh kalimat, membiayai situs dan aplikasi supaya tetap bisa dibuka, atau menyusun bahan belajar untuk sekolah dan tulisan tentang budaya. Rincian kerja sama, termasuk lama waktunya, disepakati di pesan atau surat terpisah, bukan di halaman ini.
 
 ### Menjadi Sponsor
 
-Anda bisa memberi dukungan lewat GitHub Sponsors, [Saweria](https://saweria.co/sambasku), atau menghubungi kami untuk bentuk kerja sama lainnya. Dana yang masuk diterima oleh Ibnul Mutaki selaku pengurus SambasKu.
+Anda bisa memberi dukungan lewat GitHub Sponsors, [Saweria](https://saweria.co/sambasku), atau menghubungi kami untuk bentuk kerja sama lainnya. Dana yang masuk diterima oleh Ibnul Mutaki selaku relawan SambasKu.
 
 ![Sponsor di GitHub](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)
 ![Dukung di Saweria](https://img.shields.io/badge/Dukung-Saweria-FFA31A)
@@ -79,11 +85,13 @@ Kami akan membaca dan membalas pesan Anda dengan senang hati.
 
 ### Sponsor Saat Ini
 
-Belum ada sponsor yang tercatat. Anda bisa menjadi pendukung pertama kami melalui [GitHub Sponsors](https://github.com/sponsors/sambasku) atau [Saweria](https://saweria.co/sambasku).
+- **Galang Septiadi** - Reimburse pembelian domain sambasku.com, dan reimburse biaya registrasi akun Google Developer (Oktober 2026).
+
+Anda juga bisa menjadi pendukung berikutnya melalui [GitHub Sponsors](https://github.com/sponsors/sambasku) atau [Saweria](https://saweria.co/sambasku).
 
 ## Kas Publik
 
-Catatan uang SambasKu dipegang oleh Ibnul Mutaki selaku pengurus. Catatan itu dibagi dua, supaya tagihan yang belum jatuh tempo tidak tercampur dengan uang yang sudah bergerak.
+Catatan uang SambasKu dipegang oleh Ibnul Mutaki selaku relawan. Kas ini dikelola secara pribadi sebagai bagian dari proyek komunitas, dan seluruh catatannya terbuka untuk diperiksa siapa saja. Kalau proyek ini berhenti, sisa kas dipakai untuk memperpanjang domain dan mengarsipkan konten sebelum kas ditutup. Catatan itu dibagi dua, supaya tagihan yang belum jatuh tempo tidak tercampur dengan uang yang sudah bergerak.
 
 - [cashflow.csv](../cashflow.csv) untuk uang yang sudah bergerak. Debit: uang masuk. Kredit: uang keluar. Saldo: sisa kas.
 - [payable.csv](../payable.csv) untuk tagihan yang pasti dibayar, meski belum jatuh tempo. Periode: `tahunan`, `bulanan`, atau `sekali`. 
@@ -91,6 +99,8 @@ Catatan uang SambasKu dipegang oleh Ibnul Mutaki selaku pengurus. Catatan itu di
 Payable saat ini:
 
 - Domain [sambasku.com](https://sambasku.com), perpanjangan tahunan: **10,46 USD**, jatuh tempo 24 Agustus 2027 (domain aktif sampai 23 September 2027). [Tangkapan harga](../images/domain_sambasku_com_renewal.png)
+
+Tagihan akun Google Developer (25 USD) sudah terbayar dan direimburse sponsor, lihat [cashflow.csv](../cashflow.csv).
 
 
 
