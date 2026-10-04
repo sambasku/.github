@@ -9,7 +9,7 @@ Privasimu penting bagi kami. Dokumen ini menjelaskan data apa yang kami proses d
 - **Data akun:** nama, username, dan email saat kamu mendaftar.
 - **Konten kontribusi:** kata yang kamu usulkan, contoh kalimat, rekaman suara, dan komentar yang kamu tulis.
 - **Aktivitas:** penilaian pada kata dan kata yang kamu simpan.
-- **Log server:** data teknis standar (alamat IP, waktu akses) untuk menjaga keamanan layanan.
+- **Log server:** data teknis standar (alamat IP, waktu akses) untuk menjaga keamanan layanan. Log permintaan API disimpan paling lama 90 hari.
 
 Rekaman suara dipublikasikan hanya dengan persetujuan penutur yang bersuara, diminta saat pengunggahan. Suara adalah data pribadi, dan pemiliknya bisa minta hapus kapan saja.
 
@@ -37,13 +37,17 @@ Beberapa layanan pihak ketiga membantu SambasKu berjalan, dan sebagian datamu di
 
 - penyedia hosting untuk situs dan API;
 - Google, melalui Google Play (distribusi aplikasi) dan Firebase Cloud Messaging (notifikasi);
-- layanan pengiriman email.
+- Cloudflare, untuk perlindungan dan pengiriman konten;
+- Turso, untuk penyimpanan data;
+- Resend, untuk layanan pengiriman email.
 
 Mereka tidak boleh memakai datamu untuk iklan atau pemasaran.
 
+Selain itu, aplikasi pihak ketiga yang kamu izinkan lewat OAuth SambasKu bisa mengakses datamu sesuai lingkup yang kamu setujui di layar izin. Kamu bisa mencabut izin itu kapan saja.
+
 ## Penyimpanan dan Penghapusan
 
-Data disimpan selama akunmu aktif. Kalau kamu ingin menghapus akun dan datanya, kirim permintaan ke [mail@sambasku.com](mailto:mail@sambasku.com) dan kami proses paling lama 30 hari kerja. Log server disimpan paling lama 1 tahun untuk keamanan.
+Data disimpan selama akunmu aktif. Kalau kamu ingin menghapus akun dan datanya, buka halaman Hapus Akun di situs atau aplikasi SambasKu, atau kirim permintaan ke [mail@sambasku.com](mailto:mail@sambasku.com). Permintaan kami proses paling lama 30 hari kerja. Log server disimpan paling lama 90 hari untuk keamanan.
 
 Menghapus akun menghapus data pribadi dan rekaman suaramu. Kontribusi kata yang sudah terbit tetap ada sebagai sumbangan anonim agar kamus tetap utuh.
 

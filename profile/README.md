@@ -155,5 +155,7 @@ Konten kamus disusun komunitas dan dilisensikan "sebagaimana adanya" di bawah CC
 
 Punya pertanyaan, ingin berdiskusi, atau sekadar menyapa sesama pecinta bahasa Sambas? Yuk, gabung bersama kami! Grup komunitas dijaga moderator dan mengikuti [Kode Etik](../KODE-ETIK.md) kami.
 
+Dokumen resmi layanan: [Syarat dan Ketentuan](https://sambasku.com/id/syarat-ketentuan) dan [Kebijakan Privasi](https://sambasku.com/id/privacy-policy) di sambaskan.com.
+
 ![Server Discord](https://img.shields.io/badge/Gabung%20Discord-Komunitas-blue?logo=discord&logoColor=white)
 ![Grup WhatsApp](https://img.shields.io/badge/Gabung%20WhatsApp-Komunitas-25D366?logo=whatsapp&logoColor=white)
