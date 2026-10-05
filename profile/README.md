@@ -130,7 +130,7 @@ Email yang masuk akan kami baca dan balas. Kalau kerja samanya berlanjut, dokume
 
 - Belum ada.
 
-Ayo jadi pendukung berikutnya lewat [GitHub Sponsors](https://github.com/sponsors/sambasku) atau [Saweria](https://saweria.co/sambasku).
+Kamu juga bisa ikut mendukung SambasKu lewat [GitHub Sponsors](https://github.com/sponsors/sambasku) atau [Saweria](https://saweria.co/sambasku).
 
 ## Kas Publik
 
