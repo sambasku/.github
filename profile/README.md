@@ -6,6 +6,19 @@ Rumah bagi penutur, perantau, dan pecinta bahasa Melayu Sambas.
 
 [sambasku.com](https://sambasku.com) · [mail@sambasku.com](mailto:mail@sambasku.com)
 
+**SambasKu** adalah proyek komunitas yang didirikan oleh **[Ibnul Mutaki](https://github.com/iamutaki) (`iamutaki`)**, dengan tujuan mendokumentasikan, melestarikan, dan memperkenalkan bahasa serta pengetahuan lokal Sambas.
+
+SambasKu dikembangkan secara terbuka dan melibatkan kontribusi komunitas dalam pengumpulan serta pengembangan konten.
+
+| | |
+|---|---|
+| **Founder & Initiator** | [Ibnul Mutaki](https://github.com/iamutaki) (`iamutaki`) |
+| **Project** | Community-driven |
+| **Established** | 2019 |
+| **Website** | [sambasku.com](https://sambasku.com) |
+| **Source Code** | [GitHub](https://github.com/iamutaki/sambasku) |
+| **Contributions** | Open to community |
+
 ## Tentang SambasKu
 
 Bahasa Melayu Sambas masih dipakai sehari-hari, tapi kata-katanya sulit ditemukan di internet dan suaranya jarang terdengar.
@@ -15,6 +28,25 @@ SambasKu hadir supaya kata-kata Sambas punya tempat di internet, dalam bentuk ka
 SambasKu adalah proyek komunitas sukarela, bukan badan hukum, yayasan, atau lembaga resmi. Pengelolanya relawan, dan tidak ada layanan berbayar. Kontributor aktif bisa menerima uang terima kasih. Besarnya tergantung pertimbangan pengelola dan sisa dana kas. Pajak atas uang tersebut menjadi tanggung jawab masing-masing penerima. Semua uang yang masuk dan keluar dicatat dan bisa dilihat siapa saja di [Kas Publik](#kas-publik) karena SambasKu bertujuan untuk merawat dan melestarikan bahasa Melayu Sambas, bukan untuk mencari keuntungan.
 
 SambasKu bisa dibuka di [sambasku.com](https://sambasku.com) atau unduh aplikasinya di [Google Play](https://play.google.com/store/apps/details?id=com.iamutaki.sambasku).
+
+### Sejarah
+
+SambasKu berawal pada tahun 2019 melalui sebuah aplikasi bernama Kamus Bahasa Sambas. Aplikasi tersebut menjadi cikal bakal pengembangan SambasKu hingga kemudian berkembang menjadi proyek komunitas dengan nama SambasKu.
+
+Perkembangannya sempat terhenti karena berbagai hal, hingga akhirnya proyek ini dihidupkan kembali pada tahun 2026 dengan wujud baru: SambasKu.
+
+<p>
+  <img src="../screenshoots/kamus_sambas_v1.jpeg" alt="Tampilan Kamus Bahasa Sambas versi awal" width="140" hspace="12"/>
+  <img src="../screenshoots/kamus_sambas_v1_beta.jpeg" alt="Tampilan Kamus Bahasa Sambas versi beta" width="140" hspace="12"/>
+  <img src="../screenshoots/artefact_store.png" alt="Artefak Kamus Bahasa Sambas di app store" width="140" hspace="12"/>
+</p>
+
+Jejak aplikasi tersebut masih bisa dilihat di:
+
+- [Kamus Bahasa Sambas di APKCombo](https://apkcombo.com/id/kamus-bahasa-sambas/id.bitstudio.app.kamusbahasasambas/)
+- [Kamus Bahasa Sambas di APKPure](https://apkpure.com/id/kamus-bahasa-sambas/id.bitstudio.app.kamusbahasasambas)
+- [Postingan berbagi di Facebook Bahase Sambas](https://www.facebook.com/bahasesambas/posts/pfbid02mr2jQbyxvLHTeaC4dFa12yKAeweZiKFjYaNeonGAtqA7J4fMjnxNBcNxrA79gwkcl)
+- [Arsip kode aplikasi versi awal](https://github.com/sambasku/mobile-v1) di GitHub (public archive)
 
 ## Fitur
 
